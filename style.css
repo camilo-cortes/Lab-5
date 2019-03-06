@@ -1,0 +1,28 @@
+h1 {
+	color: black;
+	background-color: magenta;
+	text-align: center;
+}
+
+html {
+	background-color: #9999ff;
+}
+
+table{
+	width: 70%;
+	align-self: center;
+}
+
+th, td{
+	border: 1px solid black;
+}
+
+center {
+	display: block;
+  text-align: -webkit-center;
+}
+
+.bold{
+	font-weight: bold;
+	color: red;
+}
