@@ -6,15 +6,18 @@ h1 {
 
 html {
 	background-image: url(planets.jpg);
+	color: white;
 }
 
 table{
 	width: 70%;
 	align-self: center;
+	background-color: rgba(127, 15, 126, .5);
 }
 
+
 th, td{
-	border: 1px solid black;
+	border: 1px solid white;
 }
 
 center {
